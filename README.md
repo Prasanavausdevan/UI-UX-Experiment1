@@ -24,9 +24,6 @@ e. Demonstrate various UI/UX design tools in detail.
 
 
 
-[UI UX assignment 1.pdf](https://github.com/user-attachments/files/21820288/UI.UX.assignment.1.pdf)
-
-
 ## Result:
 
 Hence, it was successfully executed, enabling learners to grasp UI/UX concepts and apply design tools effectively in practical scenarios.
