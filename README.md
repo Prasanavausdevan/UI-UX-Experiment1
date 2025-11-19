@@ -1,29 +1,32 @@
 # UI-UX-Experiment1
 
-NAME: PRASANA V
-
-REG NO: 212223040150
+### Name: PRASANA V
+### Register Number: 212223040150
 
 ## Aim:
-
-To explore the Hands-on UI/UX Experiments
+To study and understand the fundamentals of User Interface (UI) and User Experience (UX) design, including their definitions, core elements, differences, design process, real-world applications, and commonly used UI/UX tools.
 
 ## Algorithm:
 
-a. Hands-on UI/UX Experiments
+Step 1: Start by learning what UI (User Interface) and UX (User Experience) mean.
 
-b. Explore the fundamentals of UI and UX
+Step 2: Study the main elements of UI such as layout, colors, typography, icons, and buttons.
 
-c. Differentiate between UI and UX using real-world case studies.
+Step 3: Study the main elements of UX such as user research, information structure, interaction flow, usability, and accessibility.
 
-d. Illustrate the relationship between UI and UX in design.
+Step 4: Understand the difference between UI and UX and how they work together.
 
-e. Demonstrate various UI/UX design tools in detail.
+Step 5: Learn the design process which includes researching, creating wireframes, designing visuals, building prototypes, and testing.
+
+Step 6: Observe real-life examples like Instagram, Uber, Spotify, Netflix, Amazon, and Duolingo to understand how UI and UX are applied.
+
+Step 7: Explore the tools used for UI and UX design such as Figma, Adobe XD, Sketch, Miro, Balsamiq, and InVision.
+
+Step 8: Finally, summarize your understanding of how UI and UX together create a complete and user-friendly product.
 
 ## Output:
-
+[UI UX assignment 1.pdf](https://github.com/user-attachments/files/23625213/UI.UX.assignment.1.pdf)
 
 
 ## Result:
-
-Hence, it was successfully executed, enabling learners to grasp UI/UX concepts and apply design tools effectively in practical scenarios.
+Thus, the basic concepts, differences, and design process of UI and UX were clearly understood. The experiment helped in learning how UI deals with visuals and UX focuses on user experience, and how both together improve a digital product. The aim of the experiment is successfully achieved.
